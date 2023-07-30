@@ -1,0 +1,11 @@
+[package]
+name = "back_burner"
+description = "A background task processing system"
+
+authors = ["Sam Stelfox <sam@stelfox.net>"]
+version = "0.1.0"
+
+edition = "2021"
+rust-version = "1.56"
+
+[dependencies]
